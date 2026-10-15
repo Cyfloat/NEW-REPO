@@ -1,0 +1,14 @@
+# Personal Claude Code settings (never commit)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.egg-info/
+
+# Secrets
+.env
